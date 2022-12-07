@@ -10,7 +10,7 @@ FROM python:3.9
 
 #my current position
 
-WORKDIR C:\Users\Rania\Desktop\CI pipeline with github actions\CI-with-github
+WORKDIR /user/app/
 
 
 
